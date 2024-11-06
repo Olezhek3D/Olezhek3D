@@ -1,12 +1,2 @@
-- 👋 Hi, I’m Oleg
-- 👀 I’m interested in  IT , English , 
-- 🌱 I’m currently learning  HTML ; CSS ; JavaScript ; English Language
-- 💞️ I’m looking to collaborate on IT Frontend
-- 📫 How to reach me ... Telegram: https://t.me/sawef21 username: @sawef21 ; Discord: http://discordapp.com/users/918220994236260383 username: oleg0k ; WhatsApp: +79853366321 
-- 😄 Pronouns: 
-- ⚡ Fun fact: 
-
-<!---
-Olezhek3D/Olezhek3D is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello, my name is Oleg, and I like learning IT, I've already my direction as a Front-end developer. I learn HTML, CSS, JavaScript. JavaScript is hard enough for me. But I know I gotta learn a lot to get a job.
+Привет, меня зовут Олег и мне нравится учить IT. Я уже выбрал свое направление в качестве Front-end разработчика. Я учу HTML, CSS, и JavaScript. JavaScript достаточно трудный для меня. Но я знаю что я должен учиться много чтобы устроиться н работую
